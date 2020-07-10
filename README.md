@@ -8,10 +8,12 @@
  ![forthebadge](https://img.shields.io/badge/JavaScript-%23239120.svg?&style=for-the-badge&logo=JavaScript)
  ![forthebadge](https://img.shields.io/badge/bootstrap-%23239120.svg?&style=for-the-badge&logo=bootstrap)
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-🔭&nbsp; &nbsp; &nbsp; I’m currently working on a "Secret project."  
+🔭&nbsp; &nbsp; I’m currently working on a "Secret project."  
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-🌱&nbsp; &nbsp; &nbsp; I’m currently learning 
+🌱&nbsp; &nbsp; I’m currently learning 
 <br>
+
+
 
 ![forthebadge](https://img.shields.io/badge/python-%23239120.svg?&style=for-the-badge&logo=python)
 

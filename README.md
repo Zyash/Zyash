@@ -17,6 +17,10 @@
 
 ![forthebadge](https://img.shields.io/badge/python-%23239120.svg?&style=for-the-badge&logo=python)
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=erlanlucio.visitor-badge">
+ <p/>
 <!--
 **Zyash/Zyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

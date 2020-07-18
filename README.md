@@ -12,6 +12,8 @@
 <br>
 🌱&nbsp; &nbsp; I’m currently learning 
 <br>
+<br>
+
 ![forthebadge](https://img.shields.io/badge/python-%23239120.svg?&style=for-the-badge&logo=python)
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">

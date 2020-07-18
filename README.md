@@ -9,11 +9,9 @@
  ![forthebadge](https://img.shields.io/badge/bootstrap-%23239120.svg?&style=for-the-badge&logo=bootstrap)
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 🔭&nbsp; &nbsp; I’m currently working on a "Secret project."  
-
+<br>
 🌱&nbsp; &nbsp; I’m currently learning 
 <br>
-<br>
-
 ![forthebadge](https://img.shields.io/badge/python-%23239120.svg?&style=for-the-badge&logo=python)
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">

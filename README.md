@@ -10,6 +10,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 🔭&nbsp; &nbsp; I’m currently working on a "Secret project."  
 <br>
+<br>
 🌱&nbsp; &nbsp; I’m currently learning 
 <br>
 <br>

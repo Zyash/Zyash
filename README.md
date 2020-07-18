@@ -21,12 +21,12 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Zyash&show_icons=true&&hide_border=true&title_color=#FF4B8A&icon_color=ff4b8a)
 
-<p align='center'>
-<img align='center' src="thttps://visitor-badge.glitch.me/badge?page_id=erlanlucio.visitor-badge">
- <p/>
- 
-
 <!--
+<p align='center'>
+    <img align='center' src="thttps://visitor-badge.glitch.me/badge?page_id=Zyash.visitor-badge">
+<p/>
+ -->
+ <!--
 **Zyash/Zyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

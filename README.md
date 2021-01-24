@@ -15,7 +15,7 @@
 <br>
 <br>
 
-![forthebadge](https://img.shields.io/badge/python-%23239120.svg?&style=for-the-badge&logo=python)
+![forthebadge](https://img.shields.io/badge/python-%23239120.svg?&style=for-the-badge&logo=python) ![forthebadge](https://img.shields.io/badge/java-%23239120.svg?&style=for-the-badge&logo=java)
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 

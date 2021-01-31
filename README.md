@@ -20,6 +20,8 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Zyash&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyash&layout=compact&theme=tokyonight)](https://github.com/Zyash/github-readme-stats)
+
 <!--
 <p align='center'>
     <img align='center' src="thttps://visitor-badge.glitch.me/badge?page_id=Zyash.visitor-badge">
